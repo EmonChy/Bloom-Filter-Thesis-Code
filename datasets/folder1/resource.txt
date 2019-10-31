@@ -1,0 +1,6 @@
+--> dataset1 contains 1000 unique records 
+    with 3 attributes patient_name,patient_gender & patient_dob 
+
+
+--> dataset2 contains 500 records where 400 are dupliacates from dataset1
+    with same attributes 
